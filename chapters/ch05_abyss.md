@@ -7,3 +7,4 @@
 5. [V] "Même la lumière cligne sous ma toile."
 6. [He] Sam brandit la fiole et pique, acharné ; il arrache Frodon au fil noir.
 7. [H] Frodon se réveille prisonnier, dénudé de tout sauf d'un nom. Il appelle Sam.
+8. [V] "Sans l'Anneau, tu n'es qu'un souffle."
