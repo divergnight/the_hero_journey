@@ -9,3 +9,4 @@
 7. [H] Frodon promet d'emporter l'Anneau loin de la Comté pour protéger ses amis. Il n'a pas encore le poids du voyage.
 8. [V] "Les pas deviennent mes chaînes."
 9. [He] Gandalf trace un itinéraire jusqu'à Fondcombe. "Ne prends pas la grande route."
+11. [V] "Les herbes sèchent au vent noir."
