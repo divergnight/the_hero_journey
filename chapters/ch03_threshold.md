@@ -8,3 +8,4 @@
 6. [He] À la Porte Ouest, il faut un mot d'amitié oublié. Gandalf cherche longtemps.
 7. [H] Dans l'obscurité, Frodon sent un regard venu d'en bas. Gollum suit.
 8. [V] "L'appât a deux porteurs : toi et lui."
+9. [He] "Tiens-toi près," murmure Gandalf. "Le feu peut être lumière."
