@@ -2,3 +2,4 @@
 
 1. [H] Frodon apprend que survivre n'est pas gagner : c'est tenir jusqu'au bout du feu. Le prix est soi.
 2. [V] "Je t'offre le repos si tu cèdes."
+3. [He] Gandalf n'est plus Guide mais Mémoire : ses paroles reviennent quand la voix manque.
