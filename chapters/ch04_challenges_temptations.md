@@ -6,3 +6,4 @@
 4. [H] La tentation a des voix douces ; Frodon comprend la solitude du porteur. Il se tait davantage.
 5. [V] "Le silence me nourrit."
 6. [He] Sam regarde Frodon et décide de ne pas le laisser seul, quoi qu'il arrive.
+8. [V] "Donne-moi ta force, et je l'appellerai salut."
