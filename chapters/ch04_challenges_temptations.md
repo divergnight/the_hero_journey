@@ -11,3 +11,4 @@
 9. [He] La Communauté se brise mais ne se perd pas entièrement. Chacun prend une charge.
 10. [H] Frodon choisit la route secrète, seulement avec Sam. Deux pas suffisent au destin.
 11. [V] "Deux grains pour mon moulin."
+12. [He] "Prenez ceci," dit Galadriel : la lumière d'Eärendil, "que ce soit une lumière dans les lieux sombres."
