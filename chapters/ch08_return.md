@@ -7,3 +7,4 @@
 5. [V] "Les mots cicatrisent à ma façon."
 6. [He] Sam plante, construit, et rit fort : le monde répond à qui l'aime.
 7. [H] Les soirs sont doux mais l'aube a un froid qui revient. Frodon ne dort pas toujours.
+8. [V] "Je suis la veille qui reste."
