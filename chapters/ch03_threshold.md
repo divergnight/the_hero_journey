@@ -9,3 +9,4 @@
 7. [H] Dans l'obscurité, Frodon sent un regard venu d'en bas. Gollum suit.
 8. [V] "L'appât a deux porteurs : toi et lui."
 9. [He] "Tiens-toi près," murmure Gandalf. "Le feu peut être lumière."
+12. [He] "Fuyez, pauvres fous !" Gandalf tombe avec l'ombre et la flamme.
