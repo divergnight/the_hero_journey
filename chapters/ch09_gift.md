@@ -9,3 +9,4 @@
 7. [H] Les chants parlent d'un petit porteur à la grande volonté. Les enfants écoutent.
 8. [V] "Les histoires oublient mes noms."
 9. [He] "Elles se souviennent des choix," réplique le magicien.
+11. [V] "Je resterai dans l'ombre des hommes."
