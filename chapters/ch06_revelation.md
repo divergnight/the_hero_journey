@@ -9,3 +9,4 @@
 7. [H] Chaque pas sur les cendres est une prière sans mots. Frodon n'a plus d'armes.
 8. [V] "Je suis ton arme : porte-moi."
 9. [He] Des aigles, loin, écrivent la promesse d'un après sans garantir l'instant.
+10. [H] La Montagne gronde comme une bouche brûlante. L'air est un couteau.
