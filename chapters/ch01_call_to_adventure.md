@@ -6,3 +6,4 @@
 4. [H] Frodon cache l'Anneau dans une boîte de bois sous le plancher. Sa main tremble à peine.
 5. [V] "Les boîtes sont des haltes, pas des barrières", grince la volonté du Mordor.
 6. [He] Gandalf teste l'inscription au feu : lettres de haine sous la lueur rouge. Il pâlit.
+7. [H] Frodon promet d'emporter l'Anneau loin de la Comté pour protéger ses amis. Il n'a pas encore le poids du voyage.
