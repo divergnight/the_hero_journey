@@ -11,3 +11,4 @@
 9. [He] À Fondcombe, Elrond soigne, et un conseil se réunit. Gandalf veille près du lit.
 10. [H] Frodon se relève et prononce : "Je prendrai l'Anneau, quoique je ne connaisse pas la voie."
 11. [V] "Je te donnerai une voie : vers moi."
+12. [He] "Tu n'iras pas seul," dit Gandalf. "Une Communauté se forme."
