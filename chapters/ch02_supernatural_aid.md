@@ -6,3 +6,4 @@
 4. [H] Frodon côtoie l'invisible et entend des échos qui ne sont pas pour lui. Le monde semble plus grand et plus froid.
 5. [V] "Plus grand pour toi, plus étroit pour ton choix."
 6. [He] D'antiques alliés aident à détourner les Nazgûl ; des feux répondent au loin.
+9. [He] À Fondcombe, Elrond soigne, et un conseil se réunit. Gandalf veille près du lit.
