@@ -11,3 +11,4 @@
 9. [He] "Elles se souviennent des choix," réplique le magicien.
 10. [H] Frodon regarde une dernière fois l'ouest. Il ne souffre plus.
 11. [V] "Je resterai dans l'ombre des hommes."
+12. [He] "Et nous dans leur lumière."
