@@ -8,3 +8,4 @@
 6. [He] Sam regarde Frodon et décide de ne pas le laisser seul, quoi qu'il arrive.
 7. [H] Boromir réclame l'Anneau pour sauver Minas Tirith. Frodon s'enfuit en larmes jusqu'au fleuve.
 8. [V] "Donne-moi ta force, et je l'appellerai salut."
+9. [He] La Communauté se brise mais ne se perd pas entièrement. Chacun prend une charge.
