@@ -4,3 +4,4 @@
 2. [V] "Enfin, dis mon nom."
 3. [He] Gollum jaillit, mord et arrache : la main se vide, l'Anneau bondit au vide.
 4. [H] Frodon perd un moi pour sauver le monde. La cendre devient lumière.
+5. [V] "Je tombe avec mon cercle."
