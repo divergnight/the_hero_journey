@@ -6,3 +6,4 @@
 4. [H] Sam tient le Livre et les clés de la maison. Le feu est domestique.
 5. [V] "Les feux doux s'endorment."
 6. [He] "Les foyers veillent mieux qu'ils ne dorment," répond Gandalf en riant.
+7. [H] Les chants parlent d'un petit porteur à la grande volonté. Les enfants écoutent.
