@@ -4,3 +4,4 @@
 2. [V] "Je t'offre le repos si tu cèdes."
 3. [He] Gandalf n'est plus Guide mais Mémoire : ses paroles reviennent quand la voix manque.
 4. [H] Gollum n'est pas seulement ennemi : il est miroir du porteur. Frodon voit sa possible fin.
+5. [V] "Le miroir te va bien."
