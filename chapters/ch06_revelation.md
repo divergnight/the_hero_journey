@@ -6,3 +6,4 @@
 4. [H] Gollum n'est pas seulement ennemi : il est miroir du porteur. Frodon voit sa possible fin.
 5. [V] "Le miroir te va bien."
 6. [He] Sam comprend que la pitié de Frodon a une place dans la victoire. La dureté ne mène pas au sommet.
+9. [He] Des aigles, loin, écrivent la promesse d'un après sans garantir l'instant.
