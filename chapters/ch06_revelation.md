@@ -6,3 +6,4 @@
 4. [H] Gollum n'est pas seulement ennemi : il est miroir du porteur. Frodon voit sa possible fin.
 5. [V] "Le miroir te va bien."
 6. [He] Sam comprend que la pitié de Frodon a une place dans la victoire. La dureté ne mène pas au sommet.
+7. [H] Chaque pas sur les cendres est une prière sans mots. Frodon n'a plus d'armes.
