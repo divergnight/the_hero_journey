@@ -6,3 +6,4 @@
 4. [H] Arachné étend la nuit en toile ; Frodon tombe dans un sommeil glacé. La fiole vacille.
 5. [V] "Même la lumière cligne sous ma toile."
 6. [He] Sam brandit la fiole et pique, acharné ; il arrache Frodon au fil noir.
+7. [H] Frodon se réveille prisonnier, dénudé de tout sauf d'un nom. Il appelle Sam.
