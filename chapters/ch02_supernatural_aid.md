@@ -7,3 +7,4 @@
 5. [V] "Plus grand pour toi, plus étroit pour ton choix."
 6. [He] D'antiques alliés aident à détourner les Nazgûl ; des feux répondent au loin.
 7. [H] Blessé au Mont Venteux, Frodon comprend que la lame des Ténèbres ronge l'âme. Le mal a une pointe.
+8. [V] "La pointe est mienne, je la tourne en toi."
