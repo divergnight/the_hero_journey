@@ -10,3 +10,4 @@
 8. [V] "La perte est ma dernière langue."
 9. [He] Les Aigles portent les deux amis hors du feu. La fatigue devient sommeil.
 10. [H] À Minas Tirith, Frodon guérit du corps et pas de l'ombre. Les cicatrices ne mentent pas.
+11. [V] "Je vis dans les cicatrices."
