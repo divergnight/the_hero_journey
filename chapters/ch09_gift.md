@@ -10,3 +10,4 @@
 8. [V] "Les histoires oublient mes noms."
 9. [He] "Elles se souviennent des choix," réplique le magicien.
 10. [H] Frodon regarde une dernière fois l'ouest. Il ne souffre plus.
+11. [V] "Je resterai dans l'ombre des hommes."
