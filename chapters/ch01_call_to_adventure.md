@@ -10,3 +10,4 @@
 8. [V] "Les pas deviennent mes chaînes."
 9. [He] Gandalf trace un itinéraire jusqu'à Fondcombe. "Ne prends pas la grande route."
 10. [H] Frodon serre la main de Sam et regarde une dernière fois les collines vertes. La Comté sent l'herbe et la bière.
+11. [V] "Les herbes sèchent au vent noir."
