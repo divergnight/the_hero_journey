@@ -8,3 +8,4 @@
 6. [He] "Les foyers veillent mieux qu'ils ne dorment," répond Gandalf en riant.
 7. [H] Les chants parlent d'un petit porteur à la grande volonté. Les enfants écoutent.
 8. [V] "Les histoires oublient mes noms."
+9. [He] "Elles se souviennent des choix," réplique le magicien.
