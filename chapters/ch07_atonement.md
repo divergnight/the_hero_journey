@@ -7,3 +7,4 @@
 5. [V] "Je tombe avec mon cercle."
 6. [He] Les flammes ferment ce que l'orgueil avait ouvert. Gandalf regarde l'est s'éclaircir.
 7. [H] Frodon pleure un silence qui n'existait plus. Il a perdu plus que l'Anneau.
+8. [V] "La perte est ma dernière langue."
