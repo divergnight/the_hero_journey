@@ -11,3 +11,4 @@
 9. [He] Des aigles, loin, écrivent la promesse d'un après sans garantir l'instant.
 10. [H] La Montagne gronde comme une bouche brûlante. L'air est un couteau.
 11. [V] "Entre."
+12. [He] "Garde un reste de toi pour décider, au bord."
