@@ -6,3 +6,4 @@
 4. [H] Arachné étend la nuit en toile ; Frodon tombe dans un sommeil glacé. La fiole vacille.
 5. [V] "Même la lumière cligne sous ma toile."
 6. [He] Sam brandit la fiole et pique, acharné ; il arrache Frodon au fil noir.
+8. [V] "Sans l'Anneau, tu n'es qu'un souffle."
