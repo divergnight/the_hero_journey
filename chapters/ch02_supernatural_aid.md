@@ -6,3 +6,4 @@
 4. [H] Frodon côtoie l'invisible et entend des échos qui ne sont pas pour lui. Le monde semble plus grand et plus froid.
 5. [V] "Plus grand pour toi, plus étroit pour ton choix."
 6. [He] D'antiques alliés aident à détourner les Nazgûl ; des feux répondent au loin.
+7. [H] Blessé au Mont Venteux, Frodon comprend que la lame des Ténèbres ronge l'âme. Le mal a une pointe.
