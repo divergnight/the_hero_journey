@@ -6,3 +6,4 @@
 4. [H] Frodon perd un moi pour sauver le monde. La cendre devient lumière.
 5. [V] "Je tombe avec mon cercle."
 6. [He] Les flammes ferment ce que l'orgueil avait ouvert. Gandalf regarde l'est s'éclaircir.
+9. [He] Les Aigles portent les deux amis hors du feu. La fatigue devient sommeil.
