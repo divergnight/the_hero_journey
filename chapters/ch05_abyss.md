@@ -9,3 +9,4 @@
 7. [H] Frodon se réveille prisonnier, dénudé de tout sauf d'un nom. Il appelle Sam.
 8. [V] "Sans l'Anneau, tu n'es qu'un souffle."
 9. [He] Sam rend l'Anneau à Frodon au pied de la tour. "Je ne peux pas porter l'Anneau pour toi, mais je peux te porter."
+11. [V] "Approche, et que ta volonté fonde la mienne."
