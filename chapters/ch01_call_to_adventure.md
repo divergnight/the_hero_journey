@@ -6,3 +6,4 @@
 4. [H] Frodon cache l'Anneau dans une boîte de bois sous le plancher. Sa main tremble à peine.
 5. [V] "Les boîtes sont des haltes, pas des barrières", grince la volonté du Mordor.
 6. [He] Gandalf teste l'inscription au feu : lettres de haine sous la lueur rouge. Il pâlit.
+9. [He] Gandalf trace un itinéraire jusqu'à Fondcombe. "Ne prends pas la grande route."
