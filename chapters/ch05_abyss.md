@@ -11,3 +11,4 @@
 9. [He] Sam rend l'Anneau à Frodon au pied de la tour. "Je ne peux pas porter l'Anneau pour toi, mais je peux te porter."
 10. [H] Ils voient la Montagne du Destin battre comme un cœur ouvert. Le sol devient cendre.
 11. [V] "Approche, et que ta volonté fonde la mienne."
+12. [He] Le souffle de l'ouest tient encore : une brise qui rappelle la Comté.
