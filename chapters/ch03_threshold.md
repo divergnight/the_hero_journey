@@ -7,3 +7,4 @@
 5. [V] "La nuit est une main autour de ton cou."
 6. [He] À la Porte Ouest, il faut un mot d'amitié oublié. Gandalf cherche longtemps.
 7. [H] Dans l'obscurité, Frodon sent un regard venu d'en bas. Gollum suit.
+8. [V] "L'appât a deux porteurs : toi et lui."
