@@ -11,3 +11,4 @@
 9. [He] "Tiens-toi près," murmure Gandalf. "Le feu peut être lumière."
 10. [H] Le Balrog se lève, antique et furieux ; le sol manque. Frodon chancelle.
 11. [V] "Je prends tes guides par le feu."
+12. [He] "Fuyez, pauvres fous !" Gandalf tombe avec l'ombre et la flamme.
