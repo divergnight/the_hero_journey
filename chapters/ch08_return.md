@@ -11,3 +11,4 @@
 9. [He] "Alors veille avec des amis," propose Gandalf. "Le mal aime la solitude."
 10. [H] Frodon confie le Livre Rouge à Sam, partant vers l'ouest. Sa main s'allège.
 11. [V] "Les mers ne m'éteignent pas."
+12. [He] Aux Havres Gris, Gandalf sourit : "Ce n'est pas un oubli, c'est un apaisement."
